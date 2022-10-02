@@ -1,0 +1,6 @@
+D:\work\workspace\vs\c_code\01-basics-grammar\09-StreamReader\bin\Debug\09-StreamReader.exe.config
+D:\work\workspace\vs\c_code\01-basics-grammar\09-StreamReader\bin\Debug\09-StreamReader.exe
+D:\work\workspace\vs\c_code\01-basics-grammar\09-StreamReader\bin\Debug\09-StreamReader.pdb
+D:\work\workspace\vs\c_code\01-basics-grammar\09-StreamReader\obj\Debug\09-StreamReader.csproj.CoreCompileInputs.cache
+D:\work\workspace\vs\c_code\01-basics-grammar\09-StreamReader\obj\Debug\09-StreamReader.exe
+D:\work\workspace\vs\c_code\01-basics-grammar\09-StreamReader\obj\Debug\09-StreamReader.pdb
