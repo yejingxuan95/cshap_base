@@ -1,0 +1,7 @@
+D:\work\workspace\vs\c_code\01-basics-grammar\01-variable\01-variable\bin\Debug\01-variable.exe.config
+D:\work\workspace\vs\c_code\01-basics-grammar\01-variable\01-variable\bin\Debug\01-variable.exe
+D:\work\workspace\vs\c_code\01-basics-grammar\01-variable\01-variable\bin\Debug\01-variable.pdb
+D:\work\workspace\vs\c_code\01-basics-grammar\01-variable\01-variable\obj\Debug\01-variable.csproj.AssemblyReference.cache
+D:\work\workspace\vs\c_code\01-basics-grammar\01-variable\01-variable\obj\Debug\01-variable.csproj.CoreCompileInputs.cache
+D:\work\workspace\vs\c_code\01-basics-grammar\01-variable\01-variable\obj\Debug\01-variable.exe
+D:\work\workspace\vs\c_code\01-basics-grammar\01-variable\01-variable\obj\Debug\01-variable.pdb
