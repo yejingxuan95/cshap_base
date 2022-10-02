@@ -1,0 +1,7 @@
+D:\work\workspace\vs\c_code\01-basics-grammar\04-List\bin\Debug\04-List.exe.config
+D:\work\workspace\vs\c_code\01-basics-grammar\04-List\bin\Debug\04-List.exe
+D:\work\workspace\vs\c_code\01-basics-grammar\04-List\bin\Debug\04-List.pdb
+D:\work\workspace\vs\c_code\01-basics-grammar\04-List\obj\Debug\04-List.csproj.AssemblyReference.cache
+D:\work\workspace\vs\c_code\01-basics-grammar\04-List\obj\Debug\04-List.csproj.CoreCompileInputs.cache
+D:\work\workspace\vs\c_code\01-basics-grammar\04-List\obj\Debug\04-List.exe
+D:\work\workspace\vs\c_code\01-basics-grammar\04-List\obj\Debug\04-List.pdb
