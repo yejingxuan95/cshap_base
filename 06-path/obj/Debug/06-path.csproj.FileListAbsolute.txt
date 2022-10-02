@@ -1,0 +1,6 @@
+D:\work\workspace\vs\c_code\01-basics-grammar\06-path\bin\Debug\06-path.exe.config
+D:\work\workspace\vs\c_code\01-basics-grammar\06-path\bin\Debug\06-path.exe
+D:\work\workspace\vs\c_code\01-basics-grammar\06-path\bin\Debug\06-path.pdb
+D:\work\workspace\vs\c_code\01-basics-grammar\06-path\obj\Debug\06-path.csproj.CoreCompileInputs.cache
+D:\work\workspace\vs\c_code\01-basics-grammar\06-path\obj\Debug\06-path.exe
+D:\work\workspace\vs\c_code\01-basics-grammar\06-path\obj\Debug\06-path.pdb
