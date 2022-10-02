@@ -1,0 +1,7 @@
+D:\work\workspace\vs\c_code\01-basics-grammar\05-Dictionary\bin\Debug\05-Dictionary.exe.config
+D:\work\workspace\vs\c_code\01-basics-grammar\05-Dictionary\bin\Debug\05-Dictionary.exe
+D:\work\workspace\vs\c_code\01-basics-grammar\05-Dictionary\bin\Debug\05-Dictionary.pdb
+D:\work\workspace\vs\c_code\01-basics-grammar\05-Dictionary\obj\Debug\05-Dictionary.csproj.AssemblyReference.cache
+D:\work\workspace\vs\c_code\01-basics-grammar\05-Dictionary\obj\Debug\05-Dictionary.csproj.CoreCompileInputs.cache
+D:\work\workspace\vs\c_code\01-basics-grammar\05-Dictionary\obj\Debug\05-Dictionary.exe
+D:\work\workspace\vs\c_code\01-basics-grammar\05-Dictionary\obj\Debug\05-Dictionary.pdb
