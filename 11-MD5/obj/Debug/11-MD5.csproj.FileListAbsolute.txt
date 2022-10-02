@@ -1,0 +1,7 @@
+D:\work\workspace\vs\c_code\01-basics-grammar\11-MD5\bin\Debug\11-MD5.exe.config
+D:\work\workspace\vs\c_code\01-basics-grammar\11-MD5\bin\Debug\11-MD5.exe
+D:\work\workspace\vs\c_code\01-basics-grammar\11-MD5\bin\Debug\11-MD5.pdb
+D:\work\workspace\vs\c_code\01-basics-grammar\11-MD5\obj\Debug\11-MD5.csproj.AssemblyReference.cache
+D:\work\workspace\vs\c_code\01-basics-grammar\11-MD5\obj\Debug\11-MD5.csproj.CoreCompileInputs.cache
+D:\work\workspace\vs\c_code\01-basics-grammar\11-MD5\obj\Debug\11-MD5.exe
+D:\work\workspace\vs\c_code\01-basics-grammar\11-MD5\obj\Debug\11-MD5.pdb
