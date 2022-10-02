@@ -1,0 +1,7 @@
+D:\work\workspace\vs\c_code\01-basics-grammar\02-ArrayList\bin\Debug\02-ArrayList.exe.config
+D:\work\workspace\vs\c_code\01-basics-grammar\02-ArrayList\bin\Debug\02-ArrayList.exe
+D:\work\workspace\vs\c_code\01-basics-grammar\02-ArrayList\bin\Debug\02-ArrayList.pdb
+D:\work\workspace\vs\c_code\01-basics-grammar\02-ArrayList\obj\Debug\02-ArrayList.csproj.AssemblyReference.cache
+D:\work\workspace\vs\c_code\01-basics-grammar\02-ArrayList\obj\Debug\02-ArrayList.csproj.CoreCompileInputs.cache
+D:\work\workspace\vs\c_code\01-basics-grammar\02-ArrayList\obj\Debug\02-ArrayList.exe
+D:\work\workspace\vs\c_code\01-basics-grammar\02-ArrayList\obj\Debug\02-ArrayList.pdb
