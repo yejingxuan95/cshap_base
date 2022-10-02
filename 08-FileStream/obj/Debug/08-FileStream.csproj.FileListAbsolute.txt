@@ -1,0 +1,7 @@
+D:\work\workspace\vs\c_code\01-basics-grammar\08-FileStream\bin\Debug\08-FileStream.exe.config
+D:\work\workspace\vs\c_code\01-basics-grammar\08-FileStream\bin\Debug\08-FileStream.exe
+D:\work\workspace\vs\c_code\01-basics-grammar\08-FileStream\bin\Debug\08-FileStream.pdb
+D:\work\workspace\vs\c_code\01-basics-grammar\08-FileStream\obj\Debug\08-FileStream.csproj.AssemblyReference.cache
+D:\work\workspace\vs\c_code\01-basics-grammar\08-FileStream\obj\Debug\08-FileStream.csproj.CoreCompileInputs.cache
+D:\work\workspace\vs\c_code\01-basics-grammar\08-FileStream\obj\Debug\08-FileStream.exe
+D:\work\workspace\vs\c_code\01-basics-grammar\08-FileStream\obj\Debug\08-FileStream.pdb
