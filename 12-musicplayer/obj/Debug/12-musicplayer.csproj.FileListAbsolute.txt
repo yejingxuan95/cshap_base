@@ -1,0 +1,10 @@
+D:\work\workspace\vs\c_code\01-basics-grammar\12-musicplayer\bin\Debug\12-musicplayer.exe.config
+D:\work\workspace\vs\c_code\01-basics-grammar\12-musicplayer\bin\Debug\12-musicplayer.exe
+D:\work\workspace\vs\c_code\01-basics-grammar\12-musicplayer\bin\Debug\12-musicplayer.pdb
+D:\work\workspace\vs\c_code\01-basics-grammar\12-musicplayer\obj\Debug\12-musicplayer.csproj.AssemblyReference.cache
+D:\work\workspace\vs\c_code\01-basics-grammar\12-musicplayer\obj\Debug\_12_musicplayer.Form1.resources
+D:\work\workspace\vs\c_code\01-basics-grammar\12-musicplayer\obj\Debug\_12_musicplayer.Properties.Resources.resources
+D:\work\workspace\vs\c_code\01-basics-grammar\12-musicplayer\obj\Debug\12-musicplayer.csproj.GenerateResource.cache
+D:\work\workspace\vs\c_code\01-basics-grammar\12-musicplayer\obj\Debug\12-musicplayer.csproj.CoreCompileInputs.cache
+D:\work\workspace\vs\c_code\01-basics-grammar\12-musicplayer\obj\Debug\12-musicplayer.exe
+D:\work\workspace\vs\c_code\01-basics-grammar\12-musicplayer\obj\Debug\12-musicplayer.pdb
