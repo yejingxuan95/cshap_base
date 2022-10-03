@@ -1,0 +1,10 @@
+D:\work\workspace\vs\c_code\01-basics-grammar\13-Thread\bin\Debug\13-Thread.exe.config
+D:\work\workspace\vs\c_code\01-basics-grammar\13-Thread\bin\Debug\13-Thread.exe
+D:\work\workspace\vs\c_code\01-basics-grammar\13-Thread\bin\Debug\13-Thread.pdb
+D:\work\workspace\vs\c_code\01-basics-grammar\13-Thread\obj\Debug\13-Thread.csproj.AssemblyReference.cache
+D:\work\workspace\vs\c_code\01-basics-grammar\13-Thread\obj\Debug\_13_Thread.Form1.resources
+D:\work\workspace\vs\c_code\01-basics-grammar\13-Thread\obj\Debug\_13_Thread.Properties.Resources.resources
+D:\work\workspace\vs\c_code\01-basics-grammar\13-Thread\obj\Debug\13-Thread.csproj.GenerateResource.cache
+D:\work\workspace\vs\c_code\01-basics-grammar\13-Thread\obj\Debug\13-Thread.csproj.CoreCompileInputs.cache
+D:\work\workspace\vs\c_code\01-basics-grammar\13-Thread\obj\Debug\13-Thread.exe
+D:\work\workspace\vs\c_code\01-basics-grammar\13-Thread\obj\Debug\13-Thread.pdb
