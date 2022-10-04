@@ -1,0 +1,10 @@
+D:\work\workspace\vs\c_code\01-basics-grammar\14-Socket02-Client\bin\Debug\14-Socket02-Client.exe.config
+D:\work\workspace\vs\c_code\01-basics-grammar\14-Socket02-Client\bin\Debug\14-Socket02-Client.exe
+D:\work\workspace\vs\c_code\01-basics-grammar\14-Socket02-Client\bin\Debug\14-Socket02-Client.pdb
+D:\work\workspace\vs\c_code\01-basics-grammar\14-Socket02-Client\obj\Debug\14-Socket02-Client.csproj.AssemblyReference.cache
+D:\work\workspace\vs\c_code\01-basics-grammar\14-Socket02-Client\obj\Debug\_14_Socket02_Client.Form1.resources
+D:\work\workspace\vs\c_code\01-basics-grammar\14-Socket02-Client\obj\Debug\_14_Socket02_Client.Properties.Resources.resources
+D:\work\workspace\vs\c_code\01-basics-grammar\14-Socket02-Client\obj\Debug\14-Socket02-Client.csproj.GenerateResource.cache
+D:\work\workspace\vs\c_code\01-basics-grammar\14-Socket02-Client\obj\Debug\14-Socket02-Client.csproj.CoreCompileInputs.cache
+D:\work\workspace\vs\c_code\01-basics-grammar\14-Socket02-Client\obj\Debug\14-Socket02-Client.exe
+D:\work\workspace\vs\c_code\01-basics-grammar\14-Socket02-Client\obj\Debug\14-Socket02-Client.pdb

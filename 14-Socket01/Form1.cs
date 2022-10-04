@@ -39,9 +39,30 @@ namespace _14_Socket01
             while (true)
             {
                 Socket socketClient = socketWatch.Accept();
-
                 ShowMsg(socketClient.RemoteEndPoint.ToString() + "连接成功");
+                Thread thread = new Thread(SocketRecea);
+                thread.IsBackground = true;
+                thread.Start(socketClient);
+
             }
+        }
+
+        private void SocketRecea(object socketClient)
+        {
+            Socket socket = socketClient as Socket;
+            while (true)
+            {
+                byte[] buffer = new byte[1024 * 1024 * 2];
+                int r = socket.Receive(buffer);
+                if (r==0)
+                {
+                    break;
+                }
+                string s = Encoding.Default.GetString(buffer, 0, r);
+                ShowMsg(socket.RemoteEndPoint.ToString() + ":" + s);
+            }
+            
+
         }
 
         private void ShowMsg(string msg) {
