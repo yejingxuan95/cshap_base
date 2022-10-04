@@ -20,6 +20,11 @@ namespace _14_Socket01
             InitializeComponent();
         }
         
+        /// <summary>
+        /// 开启有一个Socket监听
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void button1_Click(object sender, EventArgs e)
         {
             Socket socketWatch = new Socket(AddressFamily.InterNetwork, SocketType.Stream,ProtocolType.Tcp);
@@ -33,21 +38,27 @@ namespace _14_Socket01
             thread.Start(socketWatch);
             
         }
+       /// <summary>
+       /// 存储已连接的客户端ip
+       /// </summary>
+        private Dictionary<string, Socket> dictSocket = new Dictionary<string, Socket>();
 
         private void SocketListen(object socket) {
             Socket socketWatch = socket as Socket;
             while (true)
             {
                 Socket socketClient = socketWatch.Accept();
+                dictSocket[socketClient.RemoteEndPoint.ToString()]= socketClient;
+                this.comboip.Items.Add(socketClient.RemoteEndPoint.ToString());
                 ShowMsg(socketClient.RemoteEndPoint.ToString() + "连接成功");
-                Thread thread = new Thread(SocketRecea);
+                Thread thread = new Thread(SocketReceive);
                 thread.IsBackground = true;
                 thread.Start(socketClient);
 
             }
         }
 
-        private void SocketRecea(object socketClient)
+        private void SocketReceive(object socketClient)
         {
             Socket socket = socketClient as Socket;
             while (true)
@@ -67,6 +78,19 @@ namespace _14_Socket01
 
         private void ShowMsg(string msg) {
             this.textBox1.AppendText(msg + "\r\n");
+        }
+
+        private void butsend_Click(object sender, EventArgs e)
+        {
+
+            if (this.comboip.SelectedItem==null)
+            {
+                MessageBox.Show("请选择ip客户端");
+                return;
+            }
+            string key = this.comboip.SelectedItem.ToString();
+            byte[] buffer = Encoding.Default.GetBytes(this.textsend.Text);
+            dictSocket[key].Send(buffer);
         }
     }
 }
