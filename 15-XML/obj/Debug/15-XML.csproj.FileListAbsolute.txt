@@ -1,0 +1,7 @@
+D:\work\workspace\vs\c_code\01-basics-grammar\15-XML\bin\Debug\15-XML.exe.config
+D:\work\workspace\vs\c_code\01-basics-grammar\15-XML\bin\Debug\15-XML.exe
+D:\work\workspace\vs\c_code\01-basics-grammar\15-XML\bin\Debug\15-XML.pdb
+D:\work\workspace\vs\c_code\01-basics-grammar\15-XML\obj\Debug\15-XML.csproj.AssemblyReference.cache
+D:\work\workspace\vs\c_code\01-basics-grammar\15-XML\obj\Debug\15-XML.csproj.CoreCompileInputs.cache
+D:\work\workspace\vs\c_code\01-basics-grammar\15-XML\obj\Debug\15-XML.exe
+D:\work\workspace\vs\c_code\01-basics-grammar\15-XML\obj\Debug\15-XML.pdb
