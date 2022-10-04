@@ -1,0 +1,7 @@
+D:\work\workspace\vs\c_code\01-basics-grammar\17-BeginInvoke-EndInvoke02\bin\Debug\17-BeginInvoke-EndInvoke02.exe.config
+D:\work\workspace\vs\c_code\01-basics-grammar\17-BeginInvoke-EndInvoke02\bin\Debug\17-BeginInvoke-EndInvoke02.exe
+D:\work\workspace\vs\c_code\01-basics-grammar\17-BeginInvoke-EndInvoke02\bin\Debug\17-BeginInvoke-EndInvoke02.pdb
+D:\work\workspace\vs\c_code\01-basics-grammar\17-BeginInvoke-EndInvoke02\obj\Debug\17-BeginInvoke-EndInvoke02.csproj.AssemblyReference.cache
+D:\work\workspace\vs\c_code\01-basics-grammar\17-BeginInvoke-EndInvoke02\obj\Debug\17-BeginInvoke-EndInvoke02.csproj.CoreCompileInputs.cache
+D:\work\workspace\vs\c_code\01-basics-grammar\17-BeginInvoke-EndInvoke02\obj\Debug\17-BeginInvoke-EndInvoke02.exe
+D:\work\workspace\vs\c_code\01-basics-grammar\17-BeginInvoke-EndInvoke02\obj\Debug\17-BeginInvoke-EndInvoke02.pdb
