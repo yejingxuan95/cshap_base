@@ -1,0 +1,10 @@
+D:\work\workspace\vs\c_code\01-basics-grammar\13-BackgroundWorker\bin\Debug\13-BackgroundWorker.exe.config
+D:\work\workspace\vs\c_code\01-basics-grammar\13-BackgroundWorker\bin\Debug\13-BackgroundWorker.exe
+D:\work\workspace\vs\c_code\01-basics-grammar\13-BackgroundWorker\bin\Debug\13-BackgroundWorker.pdb
+D:\work\workspace\vs\c_code\01-basics-grammar\13-BackgroundWorker\obj\Debug\13-BackgroundWorker.csproj.AssemblyReference.cache
+D:\work\workspace\vs\c_code\01-basics-grammar\13-BackgroundWorker\obj\Debug\_13_BackgroundWorker.Form1.resources
+D:\work\workspace\vs\c_code\01-basics-grammar\13-BackgroundWorker\obj\Debug\_13_BackgroundWorker.Properties.Resources.resources
+D:\work\workspace\vs\c_code\01-basics-grammar\13-BackgroundWorker\obj\Debug\13-BackgroundWorker.csproj.GenerateResource.cache
+D:\work\workspace\vs\c_code\01-basics-grammar\13-BackgroundWorker\obj\Debug\13-BackgroundWorker.csproj.CoreCompileInputs.cache
+D:\work\workspace\vs\c_code\01-basics-grammar\13-BackgroundWorker\obj\Debug\13-BackgroundWorker.exe
+D:\work\workspace\vs\c_code\01-basics-grammar\13-BackgroundWorker\obj\Debug\13-BackgroundWorker.pdb
