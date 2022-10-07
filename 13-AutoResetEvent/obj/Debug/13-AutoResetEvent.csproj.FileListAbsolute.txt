@@ -1,0 +1,7 @@
+D:\work\workspace\vs\c_code\01-basics-grammar\13-AutoResetEvent\bin\Debug\13-AutoResetEvent.exe.config
+D:\work\workspace\vs\c_code\01-basics-grammar\13-AutoResetEvent\bin\Debug\13-AutoResetEvent.exe
+D:\work\workspace\vs\c_code\01-basics-grammar\13-AutoResetEvent\bin\Debug\13-AutoResetEvent.pdb
+D:\work\workspace\vs\c_code\01-basics-grammar\13-AutoResetEvent\obj\Debug\13-AutoResetEvent.csproj.AssemblyReference.cache
+D:\work\workspace\vs\c_code\01-basics-grammar\13-AutoResetEvent\obj\Debug\13-AutoResetEvent.csproj.CoreCompileInputs.cache
+D:\work\workspace\vs\c_code\01-basics-grammar\13-AutoResetEvent\obj\Debug\13-AutoResetEvent.exe
+D:\work\workspace\vs\c_code\01-basics-grammar\13-AutoResetEvent\obj\Debug\13-AutoResetEvent.pdb
