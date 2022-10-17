@@ -1,0 +1,13 @@
+D:\work\workspace\vs\c_code\01-basics-grammar\19-DapperDemo\bin\Debug\19-DapperDemo.exe.config
+D:\work\workspace\vs\c_code\01-basics-grammar\19-DapperDemo\bin\Debug\19-DapperDemo.exe
+D:\work\workspace\vs\c_code\01-basics-grammar\19-DapperDemo\bin\Debug\19-DapperDemo.pdb
+D:\work\workspace\vs\c_code\01-basics-grammar\19-DapperDemo\bin\Debug\Dapper.dll
+D:\work\workspace\vs\c_code\01-basics-grammar\19-DapperDemo\bin\Debug\Dapper.SimpleCRUD.dll
+D:\work\workspace\vs\c_code\01-basics-grammar\19-DapperDemo\bin\Debug\Dapper.xml
+D:\work\workspace\vs\c_code\01-basics-grammar\19-DapperDemo\bin\Debug\Dapper.SimpleCRUD.pdb
+D:\work\workspace\vs\c_code\01-basics-grammar\19-DapperDemo\bin\Debug\Dapper.SimpleCRUD.xml
+D:\work\workspace\vs\c_code\01-basics-grammar\19-DapperDemo\obj\Debug\19-DapperDemo.csproj.AssemblyReference.cache
+D:\work\workspace\vs\c_code\01-basics-grammar\19-DapperDemo\obj\Debug\19-DapperDemo.csproj.CoreCompileInputs.cache
+D:\work\workspace\vs\c_code\01-basics-grammar\19-DapperDemo\obj\Debug\19-DapperDemo.csproj.CopyComplete
+D:\work\workspace\vs\c_code\01-basics-grammar\19-DapperDemo\obj\Debug\19-DapperDemo.exe
+D:\work\workspace\vs\c_code\01-basics-grammar\19-DapperDemo\obj\Debug\19-DapperDemo.pdb
