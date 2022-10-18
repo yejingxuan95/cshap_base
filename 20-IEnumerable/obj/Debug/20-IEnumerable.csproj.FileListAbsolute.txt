@@ -1,0 +1,7 @@
+D:\work\workspace\vs\c_code\01-basics-grammar\20-IEnumerable\bin\Debug\20-IEnumerable.exe.config
+D:\work\workspace\vs\c_code\01-basics-grammar\20-IEnumerable\bin\Debug\20-IEnumerable.exe
+D:\work\workspace\vs\c_code\01-basics-grammar\20-IEnumerable\bin\Debug\20-IEnumerable.pdb
+D:\work\workspace\vs\c_code\01-basics-grammar\20-IEnumerable\obj\Debug\20-IEnumerable.csproj.AssemblyReference.cache
+D:\work\workspace\vs\c_code\01-basics-grammar\20-IEnumerable\obj\Debug\20-IEnumerable.csproj.CoreCompileInputs.cache
+D:\work\workspace\vs\c_code\01-basics-grammar\20-IEnumerable\obj\Debug\20-IEnumerable.exe
+D:\work\workspace\vs\c_code\01-basics-grammar\20-IEnumerable\obj\Debug\20-IEnumerable.pdb
