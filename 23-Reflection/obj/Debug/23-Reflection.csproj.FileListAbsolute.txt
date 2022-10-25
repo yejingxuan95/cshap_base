@@ -1,0 +1,7 @@
+D:\work\workspace\vs\c_code\01-basics-grammar\23-Reflection\bin\Debug\23-Reflection.exe.config
+D:\work\workspace\vs\c_code\01-basics-grammar\23-Reflection\bin\Debug\23-Reflection.exe
+D:\work\workspace\vs\c_code\01-basics-grammar\23-Reflection\bin\Debug\23-Reflection.pdb
+D:\work\workspace\vs\c_code\01-basics-grammar\23-Reflection\obj\Debug\23-Reflection.csproj.AssemblyReference.cache
+D:\work\workspace\vs\c_code\01-basics-grammar\23-Reflection\obj\Debug\23-Reflection.csproj.CoreCompileInputs.cache
+D:\work\workspace\vs\c_code\01-basics-grammar\23-Reflection\obj\Debug\23-Reflection.exe
+D:\work\workspace\vs\c_code\01-basics-grammar\23-Reflection\obj\Debug\23-Reflection.pdb
