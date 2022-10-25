@@ -1,0 +1,7 @@
+D:\work\workspace\vs\c_code\01-basics-grammar\16-Event\bin\Debug\16-Event.exe.config
+D:\work\workspace\vs\c_code\01-basics-grammar\16-Event\bin\Debug\16-Event.exe
+D:\work\workspace\vs\c_code\01-basics-grammar\16-Event\bin\Debug\16-Event.pdb
+D:\work\workspace\vs\c_code\01-basics-grammar\16-Event\obj\Debug\16-Event.csproj.AssemblyReference.cache
+D:\work\workspace\vs\c_code\01-basics-grammar\16-Event\obj\Debug\16-Event.csproj.CoreCompileInputs.cache
+D:\work\workspace\vs\c_code\01-basics-grammar\16-Event\obj\Debug\16-Event.exe
+D:\work\workspace\vs\c_code\01-basics-grammar\16-Event\obj\Debug\16-Event.pdb
