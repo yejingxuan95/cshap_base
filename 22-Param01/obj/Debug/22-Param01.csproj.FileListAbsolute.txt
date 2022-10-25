@@ -1,0 +1,7 @@
+D:\work\workspace\vs\c_code\01-basics-grammar\22-Param01\bin\Debug\22-Param01.exe.config
+D:\work\workspace\vs\c_code\01-basics-grammar\22-Param01\bin\Debug\22-Param01.exe
+D:\work\workspace\vs\c_code\01-basics-grammar\22-Param01\bin\Debug\22-Param01.pdb
+D:\work\workspace\vs\c_code\01-basics-grammar\22-Param01\obj\Debug\22-Param01.csproj.AssemblyReference.cache
+D:\work\workspace\vs\c_code\01-basics-grammar\22-Param01\obj\Debug\22-Param01.csproj.CoreCompileInputs.cache
+D:\work\workspace\vs\c_code\01-basics-grammar\22-Param01\obj\Debug\22-Param01.exe
+D:\work\workspace\vs\c_code\01-basics-grammar\22-Param01\obj\Debug\22-Param01.pdb
