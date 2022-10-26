@@ -1,0 +1,7 @@
+D:\work\workspace\vs\c_code\01-basics-grammar\25-Async-01\bin\Debug\25-Async-01.exe.config
+D:\work\workspace\vs\c_code\01-basics-grammar\25-Async-01\bin\Debug\25-Async-01.exe
+D:\work\workspace\vs\c_code\01-basics-grammar\25-Async-01\bin\Debug\25-Async-01.pdb
+D:\work\workspace\vs\c_code\01-basics-grammar\25-Async-01\obj\Debug\25-Async-01.csproj.AssemblyReference.cache
+D:\work\workspace\vs\c_code\01-basics-grammar\25-Async-01\obj\Debug\25-Async-01.csproj.CoreCompileInputs.cache
+D:\work\workspace\vs\c_code\01-basics-grammar\25-Async-01\obj\Debug\25-Async-01.exe
+D:\work\workspace\vs\c_code\01-basics-grammar\25-Async-01\obj\Debug\25-Async-01.pdb
