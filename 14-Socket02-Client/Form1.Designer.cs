@@ -35,6 +35,9 @@ namespace _14_Socket02_Client
             this.button2 = new System.Windows.Forms.Button();
             this.txtport = new System.Windows.Forms.TextBox();
             this.textrec = new System.Windows.Forms.TextBox();
+            this.butsendfile = new System.Windows.Forms.Button();
+            this.butopenfile = new System.Windows.Forms.Button();
+            this.textBox3 = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // txtip
@@ -57,19 +60,19 @@ namespace _14_Socket02_Client
             // 
             // textsend
             // 
-            this.textsend.Location = new System.Drawing.Point(32, 133);
+            this.textsend.Location = new System.Drawing.Point(32, 80);
             this.textsend.Multiline = true;
             this.textsend.Name = "textsend";
-            this.textsend.Size = new System.Drawing.Size(313, 118);
+            this.textsend.Size = new System.Drawing.Size(571, 118);
             this.textsend.TabIndex = 2;
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(370, 143);
+            this.button2.Location = new System.Drawing.Point(627, 80);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(182, 55);
+            this.button2.Size = new System.Drawing.Size(118, 34);
             this.button2.TabIndex = 3;
-            this.button2.Text = "发送";
+            this.button2.Text = "发送消息";
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
@@ -83,17 +86,45 @@ namespace _14_Socket02_Client
             // 
             // textrec
             // 
-            this.textrec.Location = new System.Drawing.Point(32, 277);
+            this.textrec.Location = new System.Drawing.Point(32, 233);
             this.textrec.Multiline = true;
             this.textrec.Name = "textrec";
             this.textrec.Size = new System.Drawing.Size(313, 118);
             this.textrec.TabIndex = 5;
+            // 
+            // butsendfile
+            // 
+            this.butsendfile.Location = new System.Drawing.Point(670, 328);
+            this.butsendfile.Name = "butsendfile";
+            this.butsendfile.Size = new System.Drawing.Size(75, 23);
+            this.butsendfile.TabIndex = 9;
+            this.butsendfile.Text = "发送文件";
+            this.butsendfile.UseVisualStyleBackColor = true;
+            // 
+            // butopenfile
+            // 
+            this.butopenfile.Location = new System.Drawing.Point(670, 287);
+            this.butopenfile.Name = "butopenfile";
+            this.butopenfile.Size = new System.Drawing.Size(75, 23);
+            this.butopenfile.TabIndex = 8;
+            this.butopenfile.Text = "选择";
+            this.butopenfile.UseVisualStyleBackColor = true;
+            // 
+            // textBox3
+            // 
+            this.textBox3.Location = new System.Drawing.Point(392, 287);
+            this.textBox3.Name = "textBox3";
+            this.textBox3.Size = new System.Drawing.Size(255, 21);
+            this.textBox3.TabIndex = 7;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.butsendfile);
+            this.Controls.Add(this.butopenfile);
+            this.Controls.Add(this.textBox3);
             this.Controls.Add(this.textrec);
             this.Controls.Add(this.txtport);
             this.Controls.Add(this.button2);
@@ -101,7 +132,7 @@ namespace _14_Socket02_Client
             this.Controls.Add(this.button1);
             this.Controls.Add(this.txtip);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "客户端";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -115,6 +146,9 @@ namespace _14_Socket02_Client
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.TextBox txtport;
         private System.Windows.Forms.TextBox textrec;
+        private System.Windows.Forms.Button butsendfile;
+        private System.Windows.Forms.Button butopenfile;
+        private System.Windows.Forms.TextBox textBox3;
     }
 }
 
