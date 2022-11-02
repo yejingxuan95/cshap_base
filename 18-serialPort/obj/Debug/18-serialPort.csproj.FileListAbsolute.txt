@@ -1,0 +1,10 @@
+D:\work\workspace\vs\c_code\01-basics-grammar\18-serialPort\bin\Debug\18-serialPort.exe.config
+D:\work\workspace\vs\c_code\01-basics-grammar\18-serialPort\bin\Debug\18-serialPort.exe
+D:\work\workspace\vs\c_code\01-basics-grammar\18-serialPort\bin\Debug\18-serialPort.pdb
+D:\work\workspace\vs\c_code\01-basics-grammar\18-serialPort\obj\Debug\18-serialPort.csproj.AssemblyReference.cache
+D:\work\workspace\vs\c_code\01-basics-grammar\18-serialPort\obj\Debug\_18_serialPort.Form1.resources
+D:\work\workspace\vs\c_code\01-basics-grammar\18-serialPort\obj\Debug\_18_serialPort.Properties.Resources.resources
+D:\work\workspace\vs\c_code\01-basics-grammar\18-serialPort\obj\Debug\18-serialPort.csproj.GenerateResource.cache
+D:\work\workspace\vs\c_code\01-basics-grammar\18-serialPort\obj\Debug\18-serialPort.csproj.CoreCompileInputs.cache
+D:\work\workspace\vs\c_code\01-basics-grammar\18-serialPort\obj\Debug\18-serialPort.exe
+D:\work\workspace\vs\c_code\01-basics-grammar\18-serialPort\obj\Debug\18-serialPort.pdb
