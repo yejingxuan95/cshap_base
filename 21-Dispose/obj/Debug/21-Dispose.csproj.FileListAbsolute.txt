@@ -1,0 +1,7 @@
+D:\work\workspace\vs\c_code\01-basics-grammar\21-Dispose\bin\Debug\21-Dispose.exe.config
+D:\work\workspace\vs\c_code\01-basics-grammar\21-Dispose\bin\Debug\21-Dispose.exe
+D:\work\workspace\vs\c_code\01-basics-grammar\21-Dispose\bin\Debug\21-Dispose.pdb
+D:\work\workspace\vs\c_code\01-basics-grammar\21-Dispose\obj\Debug\21-Dispose.csproj.AssemblyReference.cache
+D:\work\workspace\vs\c_code\01-basics-grammar\21-Dispose\obj\Debug\21-Dispose.csproj.CoreCompileInputs.cache
+D:\work\workspace\vs\c_code\01-basics-grammar\21-Dispose\obj\Debug\21-Dispose.exe
+D:\work\workspace\vs\c_code\01-basics-grammar\21-Dispose\obj\Debug\21-Dispose.pdb
