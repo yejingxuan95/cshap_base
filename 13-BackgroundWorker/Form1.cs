@@ -60,15 +60,15 @@ namespace _13_BackgroundWorker
                 }
                 this.label1.Text = Convert.ToString(sum);
             }
-            
+
             e.Result = sum;
-            
+
         }
 
         private void backgroundWorker1_ProgressChanged(object sender, ProgressChangedEventArgs e)
         {
             this.progressBar1.Value = e.ProgressPercentage;
-            this.label2.Text = Convert.ToString(e.ProgressPercentage)+"%";
+            this.label2.Text = Convert.ToString(e.ProgressPercentage) + "%";
         }
 
         private void backgroundWorker1_RunWorkerCompleted(object sender, RunWorkerCompletedEventArgs e)
@@ -79,8 +79,10 @@ namespace _13_BackgroundWorker
             }
             else
             {
-                MessageBox.Show("操作完成，"+Convert.ToString(e.Result));
+                //MessageBox.Show("操作完成，"+Convert.ToString(e.Result));
             }
         }
     }
+
+    
 }
