@@ -93,12 +93,35 @@ namespace _26_LINQ_01
             #endregion
 
             #region 查询表达式和查询运算符
-            var numbers = new int[] { 2, 3, 4, 5, 6, 7 };
-            int count = (from num in numbers
-                         where num > 4
-                         select num).Count();
-            Console.WriteLine($"{count}");
+            //var numbers = new int[] { 2, 3, 4, 5, 6, 7 };
+            //int count = (from num in numbers
+            //             where num > 4
+            //             select num).Count();
+            //Console.WriteLine($"{count}");
             #endregion
+
+            #region 使用委托作为参数
+            //Func<int, bool> func = new Func<int, bool>(IsOdd);
+            //var numbers = new int[] { 2, 3, 4, 5, 6, 7 };
+            //var count = numbers.Count(func);
+            //Console.WriteLine($"{count}");
+            #endregion
+            #region 使用lambda作为参数
+            //var numbers = new int[] { 2, 3, 4, 5, 6, 7 };
+            //var count = numbers.Count(n => n % 2 == 1);
+            //Console.WriteLine($"使用lambda作为参数:{count}");
+            #endregion
+            #region 使用匿名方法作为参数
+            Func<int, bool> func = delegate (int n) {
+                                    return n % 2 == 1;
+                                    };
+            var numbers = new int[] { 2, 3, 4, 5, 6, 7 };
+            var count = numbers.Count(func);
+            Console.WriteLine($"使用lambda作为参数:{count}");
+            #endregion
+        }
+        static bool IsOdd(int x) {
+            return x % 2 == 1;
         }
     }
 
