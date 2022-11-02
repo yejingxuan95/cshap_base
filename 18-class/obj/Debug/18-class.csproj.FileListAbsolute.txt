@@ -1,0 +1,7 @@
+D:\work\workspace\vs\c_code\01-basics-grammar\18-class\bin\Debug\18-class.exe.config
+D:\work\workspace\vs\c_code\01-basics-grammar\18-class\bin\Debug\18-class.exe
+D:\work\workspace\vs\c_code\01-basics-grammar\18-class\bin\Debug\18-class.pdb
+D:\work\workspace\vs\c_code\01-basics-grammar\18-class\obj\Debug\18-class.csproj.AssemblyReference.cache
+D:\work\workspace\vs\c_code\01-basics-grammar\18-class\obj\Debug\18-class.csproj.CoreCompileInputs.cache
+D:\work\workspace\vs\c_code\01-basics-grammar\18-class\obj\Debug\18-class.exe
+D:\work\workspace\vs\c_code\01-basics-grammar\18-class\obj\Debug\18-class.pdb
