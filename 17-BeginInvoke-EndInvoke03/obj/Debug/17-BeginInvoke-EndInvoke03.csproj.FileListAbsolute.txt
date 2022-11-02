@@ -4,3 +4,4 @@ D:\work\workspace\vs\c_code\01-basics-grammar\17-BeginInvoke-EndInvoke03\bin\Deb
 D:\work\workspace\vs\c_code\01-basics-grammar\17-BeginInvoke-EndInvoke03\obj\Debug\17-BeginInvoke-EndInvoke03.csproj.CoreCompileInputs.cache
 D:\work\workspace\vs\c_code\01-basics-grammar\17-BeginInvoke-EndInvoke03\obj\Debug\17-BeginInvoke-EndInvoke03.exe
 D:\work\workspace\vs\c_code\01-basics-grammar\17-BeginInvoke-EndInvoke03\obj\Debug\17-BeginInvoke-EndInvoke03.pdb
+D:\work\workspace\vs\c_code\01-basics-grammar\17-BeginInvoke-EndInvoke03\obj\Debug\17-BeginInvoke-EndInvoke03.csproj.AssemblyReference.cache
