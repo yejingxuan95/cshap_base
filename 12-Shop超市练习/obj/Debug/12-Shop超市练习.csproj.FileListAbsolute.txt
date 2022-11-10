@@ -1,0 +1,7 @@
+D:\work\workspace\vs\c_code\01-basics-grammar\12-Shop超市练习\bin\Debug\12-Shop超市练习.exe.config
+D:\work\workspace\vs\c_code\01-basics-grammar\12-Shop超市练习\bin\Debug\12-Shop超市练习.exe
+D:\work\workspace\vs\c_code\01-basics-grammar\12-Shop超市练习\bin\Debug\12-Shop超市练习.pdb
+D:\work\workspace\vs\c_code\01-basics-grammar\12-Shop超市练习\obj\Debug\12-Shop超市练习.csproj.AssemblyReference.cache
+D:\work\workspace\vs\c_code\01-basics-grammar\12-Shop超市练习\obj\Debug\12-Shop超市练习.csproj.CoreCompileInputs.cache
+D:\work\workspace\vs\c_code\01-basics-grammar\12-Shop超市练习\obj\Debug\12-Shop超市练习.exe
+D:\work\workspace\vs\c_code\01-basics-grammar\12-Shop超市练习\obj\Debug\12-Shop超市练习.pdb
