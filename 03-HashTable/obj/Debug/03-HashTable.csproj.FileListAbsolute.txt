@@ -5,3 +5,11 @@ D:\work\workspace\vs\c_code\01-basics-grammar\03-HashTable\obj\Debug\03-HashTabl
 D:\work\workspace\vs\c_code\01-basics-grammar\03-HashTable\obj\Debug\03-HashTable.csproj.CoreCompileInputs.cache
 D:\work\workspace\vs\c_code\01-basics-grammar\03-HashTable\obj\Debug\03-HashTable.exe
 D:\work\workspace\vs\c_code\01-basics-grammar\03-HashTable\obj\Debug\03-HashTable.pdb
+E:\demo\gitee\cshap_base\03-HashTable\bin\Debug\03-HashTable.exe.config
+E:\demo\gitee\cshap_base\03-HashTable\bin\Debug\03-HashTable.exe
+E:\demo\gitee\cshap_base\03-HashTable\bin\Debug\03-HashTable.pdb
+E:\demo\gitee\cshap_base\03-HashTable\obj\Debug\03-HashTable.csproj.AssemblyReference.cache
+E:\demo\gitee\cshap_base\03-HashTable\obj\Debug\03-HashTable.csproj.SuggestedBindingRedirects.cache
+E:\demo\gitee\cshap_base\03-HashTable\obj\Debug\03-HashTable.csproj.CoreCompileInputs.cache
+E:\demo\gitee\cshap_base\03-HashTable\obj\Debug\03-HashTable.exe
+E:\demo\gitee\cshap_base\03-HashTable\obj\Debug\03-HashTable.pdb

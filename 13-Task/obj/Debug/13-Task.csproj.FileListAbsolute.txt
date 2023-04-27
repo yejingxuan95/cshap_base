@@ -5,3 +5,11 @@ D:\work\workspace\vs\c_code\01-basics-grammar\13-Task\obj\Debug\13-Task.csproj.A
 D:\work\workspace\vs\c_code\01-basics-grammar\13-Task\obj\Debug\13-Task.csproj.CoreCompileInputs.cache
 D:\work\workspace\vs\c_code\01-basics-grammar\13-Task\obj\Debug\13-Task.exe
 D:\work\workspace\vs\c_code\01-basics-grammar\13-Task\obj\Debug\13-Task.pdb
+E:\demo\gitee\cshap_base\13-Task\bin\Debug\13-Task.exe.config
+E:\demo\gitee\cshap_base\13-Task\bin\Debug\13-Task.exe
+E:\demo\gitee\cshap_base\13-Task\bin\Debug\13-Task.pdb
+E:\demo\gitee\cshap_base\13-Task\obj\Debug\13-Task.csproj.AssemblyReference.cache
+E:\demo\gitee\cshap_base\13-Task\obj\Debug\13-Task.csproj.SuggestedBindingRedirects.cache
+E:\demo\gitee\cshap_base\13-Task\obj\Debug\13-Task.csproj.CoreCompileInputs.cache
+E:\demo\gitee\cshap_base\13-Task\obj\Debug\13-Task.exe
+E:\demo\gitee\cshap_base\13-Task\obj\Debug\13-Task.pdb

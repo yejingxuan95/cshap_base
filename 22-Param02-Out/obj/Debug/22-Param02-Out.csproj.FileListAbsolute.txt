@@ -5,3 +5,11 @@ D:\work\workspace\vs\c_code\01-basics-grammar\22-Param02-Out\obj\Debug\22-Param0
 D:\work\workspace\vs\c_code\01-basics-grammar\22-Param02-Out\obj\Debug\22-Param02-Out.csproj.CoreCompileInputs.cache
 D:\work\workspace\vs\c_code\01-basics-grammar\22-Param02-Out\obj\Debug\22-Param02-Out.exe
 D:\work\workspace\vs\c_code\01-basics-grammar\22-Param02-Out\obj\Debug\22-Param02-Out.pdb
+E:\demo\gitee\cshap_base\22-Param02-Out\bin\Debug\22-Param02-Out.exe.config
+E:\demo\gitee\cshap_base\22-Param02-Out\bin\Debug\22-Param02-Out.exe
+E:\demo\gitee\cshap_base\22-Param02-Out\bin\Debug\22-Param02-Out.pdb
+E:\demo\gitee\cshap_base\22-Param02-Out\obj\Debug\22-Param02-Out.csproj.AssemblyReference.cache
+E:\demo\gitee\cshap_base\22-Param02-Out\obj\Debug\22-Param02-Out.csproj.SuggestedBindingRedirects.cache
+E:\demo\gitee\cshap_base\22-Param02-Out\obj\Debug\22-Param02-Out.csproj.CoreCompileInputs.cache
+E:\demo\gitee\cshap_base\22-Param02-Out\obj\Debug\22-Param02-Out.exe
+E:\demo\gitee\cshap_base\22-Param02-Out\obj\Debug\22-Param02-Out.pdb

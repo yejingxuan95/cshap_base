@@ -5,3 +5,11 @@ D:\work\workspace\vs\c_code\01-basics-grammar\05-Dictionary\obj\Debug\05-Diction
 D:\work\workspace\vs\c_code\01-basics-grammar\05-Dictionary\obj\Debug\05-Dictionary.csproj.CoreCompileInputs.cache
 D:\work\workspace\vs\c_code\01-basics-grammar\05-Dictionary\obj\Debug\05-Dictionary.exe
 D:\work\workspace\vs\c_code\01-basics-grammar\05-Dictionary\obj\Debug\05-Dictionary.pdb
+E:\demo\gitee\cshap_base\05-Dictionary\bin\Debug\05-Dictionary.exe.config
+E:\demo\gitee\cshap_base\05-Dictionary\bin\Debug\05-Dictionary.exe
+E:\demo\gitee\cshap_base\05-Dictionary\bin\Debug\05-Dictionary.pdb
+E:\demo\gitee\cshap_base\05-Dictionary\obj\Debug\05-Dictionary.csproj.AssemblyReference.cache
+E:\demo\gitee\cshap_base\05-Dictionary\obj\Debug\05-Dictionary.csproj.SuggestedBindingRedirects.cache
+E:\demo\gitee\cshap_base\05-Dictionary\obj\Debug\05-Dictionary.csproj.CoreCompileInputs.cache
+E:\demo\gitee\cshap_base\05-Dictionary\obj\Debug\05-Dictionary.exe
+E:\demo\gitee\cshap_base\05-Dictionary\obj\Debug\05-Dictionary.pdb

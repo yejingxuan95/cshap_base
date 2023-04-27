@@ -4,3 +4,11 @@ D:\work\workspace\vs\c_code\01-basics-grammar\09-StreamReader\bin\Debug\09-Strea
 D:\work\workspace\vs\c_code\01-basics-grammar\09-StreamReader\obj\Debug\09-StreamReader.csproj.CoreCompileInputs.cache
 D:\work\workspace\vs\c_code\01-basics-grammar\09-StreamReader\obj\Debug\09-StreamReader.exe
 D:\work\workspace\vs\c_code\01-basics-grammar\09-StreamReader\obj\Debug\09-StreamReader.pdb
+E:\demo\gitee\cshap_base\09-StreamReader\bin\Debug\09-StreamReader.exe.config
+E:\demo\gitee\cshap_base\09-StreamReader\bin\Debug\09-StreamReader.exe
+E:\demo\gitee\cshap_base\09-StreamReader\bin\Debug\09-StreamReader.pdb
+E:\demo\gitee\cshap_base\09-StreamReader\obj\Debug\09-StreamReader.csproj.AssemblyReference.cache
+E:\demo\gitee\cshap_base\09-StreamReader\obj\Debug\09-StreamReader.csproj.SuggestedBindingRedirects.cache
+E:\demo\gitee\cshap_base\09-StreamReader\obj\Debug\09-StreamReader.csproj.CoreCompileInputs.cache
+E:\demo\gitee\cshap_base\09-StreamReader\obj\Debug\09-StreamReader.exe
+E:\demo\gitee\cshap_base\09-StreamReader\obj\Debug\09-StreamReader.pdb

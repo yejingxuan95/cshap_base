@@ -5,3 +5,11 @@ D:\work\workspace\vs\c_code\01-basics-grammar\21-Dispose\obj\Debug\21-Dispose.cs
 D:\work\workspace\vs\c_code\01-basics-grammar\21-Dispose\obj\Debug\21-Dispose.csproj.CoreCompileInputs.cache
 D:\work\workspace\vs\c_code\01-basics-grammar\21-Dispose\obj\Debug\21-Dispose.exe
 D:\work\workspace\vs\c_code\01-basics-grammar\21-Dispose\obj\Debug\21-Dispose.pdb
+E:\demo\gitee\cshap_base\21-Dispose\bin\Debug\21-Dispose.exe.config
+E:\demo\gitee\cshap_base\21-Dispose\bin\Debug\21-Dispose.exe
+E:\demo\gitee\cshap_base\21-Dispose\bin\Debug\21-Dispose.pdb
+E:\demo\gitee\cshap_base\21-Dispose\obj\Debug\21-Dispose.csproj.AssemblyReference.cache
+E:\demo\gitee\cshap_base\21-Dispose\obj\Debug\21-Dispose.csproj.SuggestedBindingRedirects.cache
+E:\demo\gitee\cshap_base\21-Dispose\obj\Debug\21-Dispose.csproj.CoreCompileInputs.cache
+E:\demo\gitee\cshap_base\21-Dispose\obj\Debug\21-Dispose.exe
+E:\demo\gitee\cshap_base\21-Dispose\obj\Debug\21-Dispose.pdb

@@ -5,3 +5,11 @@ D:\work\workspace\vs\c_code\01-basics-grammar\02-ArrayList\obj\Debug\02-ArrayLis
 D:\work\workspace\vs\c_code\01-basics-grammar\02-ArrayList\obj\Debug\02-ArrayList.csproj.CoreCompileInputs.cache
 D:\work\workspace\vs\c_code\01-basics-grammar\02-ArrayList\obj\Debug\02-ArrayList.exe
 D:\work\workspace\vs\c_code\01-basics-grammar\02-ArrayList\obj\Debug\02-ArrayList.pdb
+E:\demo\gitee\cshap_base\02-ArrayList\bin\Debug\02-ArrayList.exe.config
+E:\demo\gitee\cshap_base\02-ArrayList\bin\Debug\02-ArrayList.exe
+E:\demo\gitee\cshap_base\02-ArrayList\bin\Debug\02-ArrayList.pdb
+E:\demo\gitee\cshap_base\02-ArrayList\obj\Debug\02-ArrayList.csproj.AssemblyReference.cache
+E:\demo\gitee\cshap_base\02-ArrayList\obj\Debug\02-ArrayList.csproj.SuggestedBindingRedirects.cache
+E:\demo\gitee\cshap_base\02-ArrayList\obj\Debug\02-ArrayList.csproj.CoreCompileInputs.cache
+E:\demo\gitee\cshap_base\02-ArrayList\obj\Debug\02-ArrayList.exe
+E:\demo\gitee\cshap_base\02-ArrayList\obj\Debug\02-ArrayList.pdb

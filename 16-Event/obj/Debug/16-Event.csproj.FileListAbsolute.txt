@@ -5,3 +5,11 @@ D:\work\workspace\vs\c_code\01-basics-grammar\16-Event\obj\Debug\16-Event.csproj
 D:\work\workspace\vs\c_code\01-basics-grammar\16-Event\obj\Debug\16-Event.csproj.CoreCompileInputs.cache
 D:\work\workspace\vs\c_code\01-basics-grammar\16-Event\obj\Debug\16-Event.exe
 D:\work\workspace\vs\c_code\01-basics-grammar\16-Event\obj\Debug\16-Event.pdb
+E:\demo\gitee\cshap_base\16-Event\bin\Debug\16-Event.exe.config
+E:\demo\gitee\cshap_base\16-Event\bin\Debug\16-Event.exe
+E:\demo\gitee\cshap_base\16-Event\bin\Debug\16-Event.pdb
+E:\demo\gitee\cshap_base\16-Event\obj\Debug\16-Event.csproj.AssemblyReference.cache
+E:\demo\gitee\cshap_base\16-Event\obj\Debug\16-Event.csproj.SuggestedBindingRedirects.cache
+E:\demo\gitee\cshap_base\16-Event\obj\Debug\16-Event.csproj.CoreCompileInputs.cache
+E:\demo\gitee\cshap_base\16-Event\obj\Debug\16-Event.exe
+E:\demo\gitee\cshap_base\16-Event\obj\Debug\16-Event.pdb

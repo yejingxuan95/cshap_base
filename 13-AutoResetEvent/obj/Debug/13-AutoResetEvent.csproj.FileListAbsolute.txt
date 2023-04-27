@@ -5,3 +5,11 @@ D:\work\workspace\vs\c_code\01-basics-grammar\13-AutoResetEvent\obj\Debug\13-Aut
 D:\work\workspace\vs\c_code\01-basics-grammar\13-AutoResetEvent\obj\Debug\13-AutoResetEvent.csproj.CoreCompileInputs.cache
 D:\work\workspace\vs\c_code\01-basics-grammar\13-AutoResetEvent\obj\Debug\13-AutoResetEvent.exe
 D:\work\workspace\vs\c_code\01-basics-grammar\13-AutoResetEvent\obj\Debug\13-AutoResetEvent.pdb
+E:\demo\gitee\cshap_base\13-AutoResetEvent\bin\Debug\13-AutoResetEvent.exe.config
+E:\demo\gitee\cshap_base\13-AutoResetEvent\bin\Debug\13-AutoResetEvent.exe
+E:\demo\gitee\cshap_base\13-AutoResetEvent\bin\Debug\13-AutoResetEvent.pdb
+E:\demo\gitee\cshap_base\13-AutoResetEvent\obj\Debug\13-AutoResetEvent.csproj.AssemblyReference.cache
+E:\demo\gitee\cshap_base\13-AutoResetEvent\obj\Debug\13-AutoResetEvent.csproj.SuggestedBindingRedirects.cache
+E:\demo\gitee\cshap_base\13-AutoResetEvent\obj\Debug\13-AutoResetEvent.csproj.CoreCompileInputs.cache
+E:\demo\gitee\cshap_base\13-AutoResetEvent\obj\Debug\13-AutoResetEvent.exe
+E:\demo\gitee\cshap_base\13-AutoResetEvent\obj\Debug\13-AutoResetEvent.pdb

@@ -5,3 +5,11 @@ D:\work\workspace\vs\c_code\01-basics-grammar\11-MD5\obj\Debug\11-MD5.csproj.Ass
 D:\work\workspace\vs\c_code\01-basics-grammar\11-MD5\obj\Debug\11-MD5.csproj.CoreCompileInputs.cache
 D:\work\workspace\vs\c_code\01-basics-grammar\11-MD5\obj\Debug\11-MD5.exe
 D:\work\workspace\vs\c_code\01-basics-grammar\11-MD5\obj\Debug\11-MD5.pdb
+E:\demo\gitee\cshap_base\11-MD5\bin\Debug\11-MD5.exe.config
+E:\demo\gitee\cshap_base\11-MD5\bin\Debug\11-MD5.exe
+E:\demo\gitee\cshap_base\11-MD5\bin\Debug\11-MD5.pdb
+E:\demo\gitee\cshap_base\11-MD5\obj\Debug\11-MD5.csproj.AssemblyReference.cache
+E:\demo\gitee\cshap_base\11-MD5\obj\Debug\11-MD5.csproj.SuggestedBindingRedirects.cache
+E:\demo\gitee\cshap_base\11-MD5\obj\Debug\11-MD5.csproj.CoreCompileInputs.cache
+E:\demo\gitee\cshap_base\11-MD5\obj\Debug\11-MD5.exe
+E:\demo\gitee\cshap_base\11-MD5\obj\Debug\11-MD5.pdb

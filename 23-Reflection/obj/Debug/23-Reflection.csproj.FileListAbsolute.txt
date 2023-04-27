@@ -5,3 +5,11 @@ D:\work\workspace\vs\c_code\01-basics-grammar\23-Reflection\obj\Debug\23-Reflect
 D:\work\workspace\vs\c_code\01-basics-grammar\23-Reflection\obj\Debug\23-Reflection.csproj.CoreCompileInputs.cache
 D:\work\workspace\vs\c_code\01-basics-grammar\23-Reflection\obj\Debug\23-Reflection.exe
 D:\work\workspace\vs\c_code\01-basics-grammar\23-Reflection\obj\Debug\23-Reflection.pdb
+E:\demo\gitee\cshap_base\23-Reflection\bin\Debug\23-Reflection.exe.config
+E:\demo\gitee\cshap_base\23-Reflection\bin\Debug\23-Reflection.exe
+E:\demo\gitee\cshap_base\23-Reflection\bin\Debug\23-Reflection.pdb
+E:\demo\gitee\cshap_base\23-Reflection\obj\Debug\23-Reflection.csproj.AssemblyReference.cache
+E:\demo\gitee\cshap_base\23-Reflection\obj\Debug\23-Reflection.csproj.SuggestedBindingRedirects.cache
+E:\demo\gitee\cshap_base\23-Reflection\obj\Debug\23-Reflection.csproj.CoreCompileInputs.cache
+E:\demo\gitee\cshap_base\23-Reflection\obj\Debug\23-Reflection.exe
+E:\demo\gitee\cshap_base\23-Reflection\obj\Debug\23-Reflection.pdb

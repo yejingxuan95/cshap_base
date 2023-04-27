@@ -5,3 +5,11 @@ D:\work\workspace\vs\c_code\01-basics-grammar\20-IEnumerable\obj\Debug\20-IEnume
 D:\work\workspace\vs\c_code\01-basics-grammar\20-IEnumerable\obj\Debug\20-IEnumerable.csproj.CoreCompileInputs.cache
 D:\work\workspace\vs\c_code\01-basics-grammar\20-IEnumerable\obj\Debug\20-IEnumerable.exe
 D:\work\workspace\vs\c_code\01-basics-grammar\20-IEnumerable\obj\Debug\20-IEnumerable.pdb
+E:\demo\gitee\cshap_base\20-IEnumerable\bin\Debug\20-IEnumerable.exe.config
+E:\demo\gitee\cshap_base\20-IEnumerable\bin\Debug\20-IEnumerable.exe
+E:\demo\gitee\cshap_base\20-IEnumerable\bin\Debug\20-IEnumerable.pdb
+E:\demo\gitee\cshap_base\20-IEnumerable\obj\Debug\20-IEnumerable.csproj.AssemblyReference.cache
+E:\demo\gitee\cshap_base\20-IEnumerable\obj\Debug\20-IEnumerable.csproj.SuggestedBindingRedirects.cache
+E:\demo\gitee\cshap_base\20-IEnumerable\obj\Debug\20-IEnumerable.csproj.CoreCompileInputs.cache
+E:\demo\gitee\cshap_base\20-IEnumerable\obj\Debug\20-IEnumerable.exe
+E:\demo\gitee\cshap_base\20-IEnumerable\obj\Debug\20-IEnumerable.pdb

@@ -8,3 +8,14 @@ D:\work\workspace\vs\c_code\01-basics-grammar\18-serialPort\obj\Debug\18-serialP
 D:\work\workspace\vs\c_code\01-basics-grammar\18-serialPort\obj\Debug\18-serialPort.csproj.CoreCompileInputs.cache
 D:\work\workspace\vs\c_code\01-basics-grammar\18-serialPort\obj\Debug\18-serialPort.exe
 D:\work\workspace\vs\c_code\01-basics-grammar\18-serialPort\obj\Debug\18-serialPort.pdb
+E:\demo\gitee\cshap_base\18-serialPort\bin\Debug\18-serialPort.exe.config
+E:\demo\gitee\cshap_base\18-serialPort\bin\Debug\18-serialPort.exe
+E:\demo\gitee\cshap_base\18-serialPort\bin\Debug\18-serialPort.pdb
+E:\demo\gitee\cshap_base\18-serialPort\obj\Debug\18-serialPort.csproj.AssemblyReference.cache
+E:\demo\gitee\cshap_base\18-serialPort\obj\Debug\18-serialPort.csproj.SuggestedBindingRedirects.cache
+E:\demo\gitee\cshap_base\18-serialPort\obj\Debug\_18_serialPort.Form1.resources
+E:\demo\gitee\cshap_base\18-serialPort\obj\Debug\_18_serialPort.Properties.Resources.resources
+E:\demo\gitee\cshap_base\18-serialPort\obj\Debug\18-serialPort.csproj.GenerateResource.cache
+E:\demo\gitee\cshap_base\18-serialPort\obj\Debug\18-serialPort.csproj.CoreCompileInputs.cache
+E:\demo\gitee\cshap_base\18-serialPort\obj\Debug\18-serialPort.exe
+E:\demo\gitee\cshap_base\18-serialPort\obj\Debug\18-serialPort.pdb

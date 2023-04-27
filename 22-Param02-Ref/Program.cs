@@ -20,7 +20,7 @@ namespace _22_Param02_Ref
         static void Test(ref Student student)
         {
             Console.WriteLine($"方法内前：{student.GetHashCode()},{student.Name}");
-            //student = new Student();
+            student = new Student();
             student.Name = "罗峰";
             Console.WriteLine($"方法内后：{student.GetHashCode()},{student.Name}");
         }

@@ -30,6 +30,7 @@ namespace _17_BeginInvoke_EndInvoke01
             stopWatch.Stop();
             TimeSpan t = stopWatch.Elapsed;
             Console.WriteLine("程序花费时间：{0}秒,{1}毫秒",t.TotalSeconds, t.TotalMilliseconds);
+            Console.ReadLine();
         }
 
         static long Sum(int x,int y ) 

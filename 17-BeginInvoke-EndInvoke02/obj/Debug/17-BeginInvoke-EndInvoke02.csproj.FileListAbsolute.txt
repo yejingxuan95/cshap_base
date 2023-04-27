@@ -5,3 +5,11 @@ D:\work\workspace\vs\c_code\01-basics-grammar\17-BeginInvoke-EndInvoke02\obj\Deb
 D:\work\workspace\vs\c_code\01-basics-grammar\17-BeginInvoke-EndInvoke02\obj\Debug\17-BeginInvoke-EndInvoke02.csproj.CoreCompileInputs.cache
 D:\work\workspace\vs\c_code\01-basics-grammar\17-BeginInvoke-EndInvoke02\obj\Debug\17-BeginInvoke-EndInvoke02.exe
 D:\work\workspace\vs\c_code\01-basics-grammar\17-BeginInvoke-EndInvoke02\obj\Debug\17-BeginInvoke-EndInvoke02.pdb
+E:\demo\gitee\cshap_base\17-BeginInvoke-EndInvoke02\bin\Debug\17-BeginInvoke-EndInvoke02.exe.config
+E:\demo\gitee\cshap_base\17-BeginInvoke-EndInvoke02\bin\Debug\17-BeginInvoke-EndInvoke02.exe
+E:\demo\gitee\cshap_base\17-BeginInvoke-EndInvoke02\bin\Debug\17-BeginInvoke-EndInvoke02.pdb
+E:\demo\gitee\cshap_base\17-BeginInvoke-EndInvoke02\obj\Debug\17-BeginInvoke-EndInvoke02.csproj.AssemblyReference.cache
+E:\demo\gitee\cshap_base\17-BeginInvoke-EndInvoke02\obj\Debug\17-BeginInvoke-EndInvoke02.csproj.SuggestedBindingRedirects.cache
+E:\demo\gitee\cshap_base\17-BeginInvoke-EndInvoke02\obj\Debug\17-BeginInvoke-EndInvoke02.csproj.CoreCompileInputs.cache
+E:\demo\gitee\cshap_base\17-BeginInvoke-EndInvoke02\obj\Debug\17-BeginInvoke-EndInvoke02.exe
+E:\demo\gitee\cshap_base\17-BeginInvoke-EndInvoke02\obj\Debug\17-BeginInvoke-EndInvoke02.pdb

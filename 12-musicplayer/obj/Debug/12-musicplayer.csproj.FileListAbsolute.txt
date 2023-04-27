@@ -8,3 +8,14 @@ D:\work\workspace\vs\c_code\01-basics-grammar\12-musicplayer\obj\Debug\12-musicp
 D:\work\workspace\vs\c_code\01-basics-grammar\12-musicplayer\obj\Debug\12-musicplayer.csproj.CoreCompileInputs.cache
 D:\work\workspace\vs\c_code\01-basics-grammar\12-musicplayer\obj\Debug\12-musicplayer.exe
 D:\work\workspace\vs\c_code\01-basics-grammar\12-musicplayer\obj\Debug\12-musicplayer.pdb
+E:\demo\gitee\cshap_base\12-musicplayer\bin\Debug\12-musicplayer.exe.config
+E:\demo\gitee\cshap_base\12-musicplayer\bin\Debug\12-musicplayer.exe
+E:\demo\gitee\cshap_base\12-musicplayer\bin\Debug\12-musicplayer.pdb
+E:\demo\gitee\cshap_base\12-musicplayer\obj\Debug\12-musicplayer.csproj.AssemblyReference.cache
+E:\demo\gitee\cshap_base\12-musicplayer\obj\Debug\12-musicplayer.csproj.SuggestedBindingRedirects.cache
+E:\demo\gitee\cshap_base\12-musicplayer\obj\Debug\_12_musicplayer.Form1.resources
+E:\demo\gitee\cshap_base\12-musicplayer\obj\Debug\_12_musicplayer.Properties.Resources.resources
+E:\demo\gitee\cshap_base\12-musicplayer\obj\Debug\12-musicplayer.csproj.GenerateResource.cache
+E:\demo\gitee\cshap_base\12-musicplayer\obj\Debug\12-musicplayer.csproj.CoreCompileInputs.cache
+E:\demo\gitee\cshap_base\12-musicplayer\obj\Debug\12-musicplayer.exe
+E:\demo\gitee\cshap_base\12-musicplayer\obj\Debug\12-musicplayer.pdb

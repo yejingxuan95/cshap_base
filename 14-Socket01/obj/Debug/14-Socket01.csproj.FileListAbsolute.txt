@@ -8,3 +8,14 @@ D:\work\workspace\vs\c_code\01-basics-grammar\14-Socket01\obj\Debug\14-Socket01.
 D:\work\workspace\vs\c_code\01-basics-grammar\14-Socket01\obj\Debug\14-Socket01.csproj.CoreCompileInputs.cache
 D:\work\workspace\vs\c_code\01-basics-grammar\14-Socket01\obj\Debug\14-Socket01.exe
 D:\work\workspace\vs\c_code\01-basics-grammar\14-Socket01\obj\Debug\14-Socket01.pdb
+E:\demo\gitee\cshap_base\14-Socket01\bin\Debug\14-Socket01.exe.config
+E:\demo\gitee\cshap_base\14-Socket01\bin\Debug\14-Socket01.exe
+E:\demo\gitee\cshap_base\14-Socket01\bin\Debug\14-Socket01.pdb
+E:\demo\gitee\cshap_base\14-Socket01\obj\Debug\14-Socket01.csproj.AssemblyReference.cache
+E:\demo\gitee\cshap_base\14-Socket01\obj\Debug\14-Socket01.csproj.SuggestedBindingRedirects.cache
+E:\demo\gitee\cshap_base\14-Socket01\obj\Debug\_14_Socket01.Form1.resources
+E:\demo\gitee\cshap_base\14-Socket01\obj\Debug\_14_Socket01.Properties.Resources.resources
+E:\demo\gitee\cshap_base\14-Socket01\obj\Debug\14-Socket01.csproj.GenerateResource.cache
+E:\demo\gitee\cshap_base\14-Socket01\obj\Debug\14-Socket01.csproj.CoreCompileInputs.cache
+E:\demo\gitee\cshap_base\14-Socket01\obj\Debug\14-Socket01.exe
+E:\demo\gitee\cshap_base\14-Socket01\obj\Debug\14-Socket01.pdb

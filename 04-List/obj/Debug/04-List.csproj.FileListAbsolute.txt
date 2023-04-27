@@ -5,3 +5,11 @@ D:\work\workspace\vs\c_code\01-basics-grammar\04-List\obj\Debug\04-List.csproj.A
 D:\work\workspace\vs\c_code\01-basics-grammar\04-List\obj\Debug\04-List.csproj.CoreCompileInputs.cache
 D:\work\workspace\vs\c_code\01-basics-grammar\04-List\obj\Debug\04-List.exe
 D:\work\workspace\vs\c_code\01-basics-grammar\04-List\obj\Debug\04-List.pdb
+E:\demo\gitee\cshap_base\04-List\bin\Debug\04-List.exe.config
+E:\demo\gitee\cshap_base\04-List\bin\Debug\04-List.exe
+E:\demo\gitee\cshap_base\04-List\bin\Debug\04-List.pdb
+E:\demo\gitee\cshap_base\04-List\obj\Debug\04-List.csproj.AssemblyReference.cache
+E:\demo\gitee\cshap_base\04-List\obj\Debug\04-List.csproj.SuggestedBindingRedirects.cache
+E:\demo\gitee\cshap_base\04-List\obj\Debug\04-List.csproj.CoreCompileInputs.cache
+E:\demo\gitee\cshap_base\04-List\obj\Debug\04-List.exe
+E:\demo\gitee\cshap_base\04-List\obj\Debug\04-List.pdb

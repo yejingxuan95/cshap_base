@@ -5,3 +5,11 @@ D:\work\workspace\vs\c_code\01-basics-grammar\15-XML\obj\Debug\15-XML.csproj.Ass
 D:\work\workspace\vs\c_code\01-basics-grammar\15-XML\obj\Debug\15-XML.csproj.CoreCompileInputs.cache
 D:\work\workspace\vs\c_code\01-basics-grammar\15-XML\obj\Debug\15-XML.exe
 D:\work\workspace\vs\c_code\01-basics-grammar\15-XML\obj\Debug\15-XML.pdb
+E:\demo\gitee\cshap_base\15-XML\bin\Debug\15-XML.exe.config
+E:\demo\gitee\cshap_base\15-XML\bin\Debug\15-XML.exe
+E:\demo\gitee\cshap_base\15-XML\bin\Debug\15-XML.pdb
+E:\demo\gitee\cshap_base\15-XML\obj\Debug\15-XML.csproj.AssemblyReference.cache
+E:\demo\gitee\cshap_base\15-XML\obj\Debug\15-XML.csproj.SuggestedBindingRedirects.cache
+E:\demo\gitee\cshap_base\15-XML\obj\Debug\15-XML.csproj.CoreCompileInputs.cache
+E:\demo\gitee\cshap_base\15-XML\obj\Debug\15-XML.exe
+E:\demo\gitee\cshap_base\15-XML\obj\Debug\15-XML.pdb

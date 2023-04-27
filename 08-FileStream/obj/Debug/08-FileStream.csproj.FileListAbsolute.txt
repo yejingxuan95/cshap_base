@@ -5,3 +5,11 @@ D:\work\workspace\vs\c_code\01-basics-grammar\08-FileStream\obj\Debug\08-FileStr
 D:\work\workspace\vs\c_code\01-basics-grammar\08-FileStream\obj\Debug\08-FileStream.csproj.CoreCompileInputs.cache
 D:\work\workspace\vs\c_code\01-basics-grammar\08-FileStream\obj\Debug\08-FileStream.exe
 D:\work\workspace\vs\c_code\01-basics-grammar\08-FileStream\obj\Debug\08-FileStream.pdb
+E:\demo\gitee\cshap_base\08-FileStream\bin\Debug\08-FileStream.exe.config
+E:\demo\gitee\cshap_base\08-FileStream\bin\Debug\08-FileStream.exe
+E:\demo\gitee\cshap_base\08-FileStream\bin\Debug\08-FileStream.pdb
+E:\demo\gitee\cshap_base\08-FileStream\obj\Debug\08-FileStream.csproj.AssemblyReference.cache
+E:\demo\gitee\cshap_base\08-FileStream\obj\Debug\08-FileStream.csproj.SuggestedBindingRedirects.cache
+E:\demo\gitee\cshap_base\08-FileStream\obj\Debug\08-FileStream.csproj.CoreCompileInputs.cache
+E:\demo\gitee\cshap_base\08-FileStream\obj\Debug\08-FileStream.exe
+E:\demo\gitee\cshap_base\08-FileStream\obj\Debug\08-FileStream.pdb

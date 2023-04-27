@@ -5,3 +5,11 @@ D:\work\workspace\vs\c_code\01-basics-grammar\18-class\obj\Debug\18-class.csproj
 D:\work\workspace\vs\c_code\01-basics-grammar\18-class\obj\Debug\18-class.csproj.CoreCompileInputs.cache
 D:\work\workspace\vs\c_code\01-basics-grammar\18-class\obj\Debug\18-class.exe
 D:\work\workspace\vs\c_code\01-basics-grammar\18-class\obj\Debug\18-class.pdb
+E:\demo\gitee\cshap_base\18-class\bin\Debug\18-class.exe.config
+E:\demo\gitee\cshap_base\18-class\bin\Debug\18-class.exe
+E:\demo\gitee\cshap_base\18-class\bin\Debug\18-class.pdb
+E:\demo\gitee\cshap_base\18-class\obj\Debug\18-class.csproj.AssemblyReference.cache
+E:\demo\gitee\cshap_base\18-class\obj\Debug\18-class.csproj.SuggestedBindingRedirects.cache
+E:\demo\gitee\cshap_base\18-class\obj\Debug\18-class.csproj.CoreCompileInputs.cache
+E:\demo\gitee\cshap_base\18-class\obj\Debug\18-class.exe
+E:\demo\gitee\cshap_base\18-class\obj\Debug\18-class.pdb

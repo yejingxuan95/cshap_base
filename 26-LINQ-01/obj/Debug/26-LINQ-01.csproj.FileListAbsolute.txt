@@ -5,3 +5,11 @@ D:\work\workspace\vs\c_code\01-basics-grammar\26-LINQ-01\obj\Debug\26-LINQ-01.cs
 D:\work\workspace\vs\c_code\01-basics-grammar\26-LINQ-01\obj\Debug\26-LINQ-01.csproj.CoreCompileInputs.cache
 D:\work\workspace\vs\c_code\01-basics-grammar\26-LINQ-01\obj\Debug\26-LINQ-01.exe
 D:\work\workspace\vs\c_code\01-basics-grammar\26-LINQ-01\obj\Debug\26-LINQ-01.pdb
+E:\demo\gitee\cshap_base\26-LINQ-01\bin\Debug\26-LINQ-01.exe.config
+E:\demo\gitee\cshap_base\26-LINQ-01\bin\Debug\26-LINQ-01.exe
+E:\demo\gitee\cshap_base\26-LINQ-01\bin\Debug\26-LINQ-01.pdb
+E:\demo\gitee\cshap_base\26-LINQ-01\obj\Debug\26-LINQ-01.csproj.AssemblyReference.cache
+E:\demo\gitee\cshap_base\26-LINQ-01\obj\Debug\26-LINQ-01.csproj.SuggestedBindingRedirects.cache
+E:\demo\gitee\cshap_base\26-LINQ-01\obj\Debug\26-LINQ-01.csproj.CoreCompileInputs.cache
+E:\demo\gitee\cshap_base\26-LINQ-01\obj\Debug\26-LINQ-01.exe
+E:\demo\gitee\cshap_base\26-LINQ-01\obj\Debug\26-LINQ-01.pdb

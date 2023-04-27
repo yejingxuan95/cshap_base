@@ -5,3 +5,11 @@ D:\work\workspace\vs\c_code\01-basics-grammar\01-variable\01-variable\obj\Debug\
 D:\work\workspace\vs\c_code\01-basics-grammar\01-variable\01-variable\obj\Debug\01-variable.csproj.CoreCompileInputs.cache
 D:\work\workspace\vs\c_code\01-basics-grammar\01-variable\01-variable\obj\Debug\01-variable.exe
 D:\work\workspace\vs\c_code\01-basics-grammar\01-variable\01-variable\obj\Debug\01-variable.pdb
+E:\demo\gitee\cshap_base\01-variable\01-variable\bin\Debug\01-variable.exe.config
+E:\demo\gitee\cshap_base\01-variable\01-variable\bin\Debug\01-variable.exe
+E:\demo\gitee\cshap_base\01-variable\01-variable\bin\Debug\01-variable.pdb
+E:\demo\gitee\cshap_base\01-variable\01-variable\obj\Debug\01-variable.csproj.AssemblyReference.cache
+E:\demo\gitee\cshap_base\01-variable\01-variable\obj\Debug\01-variable.csproj.SuggestedBindingRedirects.cache
+E:\demo\gitee\cshap_base\01-variable\01-variable\obj\Debug\01-variable.csproj.CoreCompileInputs.cache
+E:\demo\gitee\cshap_base\01-variable\01-variable\obj\Debug\01-variable.exe
+E:\demo\gitee\cshap_base\01-variable\01-variable\obj\Debug\01-variable.pdb

@@ -8,3 +8,14 @@ D:\work\workspace\vs\c_code\01-basics-grammar\14-Socket02-Client\obj\Debug\14-So
 D:\work\workspace\vs\c_code\01-basics-grammar\14-Socket02-Client\obj\Debug\14-Socket02-Client.csproj.CoreCompileInputs.cache
 D:\work\workspace\vs\c_code\01-basics-grammar\14-Socket02-Client\obj\Debug\14-Socket02-Client.exe
 D:\work\workspace\vs\c_code\01-basics-grammar\14-Socket02-Client\obj\Debug\14-Socket02-Client.pdb
+E:\demo\gitee\cshap_base\14-Socket02-Client\bin\Debug\14-Socket02-Client.exe.config
+E:\demo\gitee\cshap_base\14-Socket02-Client\bin\Debug\14-Socket02-Client.exe
+E:\demo\gitee\cshap_base\14-Socket02-Client\bin\Debug\14-Socket02-Client.pdb
+E:\demo\gitee\cshap_base\14-Socket02-Client\obj\Debug\14-Socket02-Client.csproj.AssemblyReference.cache
+E:\demo\gitee\cshap_base\14-Socket02-Client\obj\Debug\14-Socket02-Client.csproj.SuggestedBindingRedirects.cache
+E:\demo\gitee\cshap_base\14-Socket02-Client\obj\Debug\_14_Socket02_Client.Form1.resources
+E:\demo\gitee\cshap_base\14-Socket02-Client\obj\Debug\_14_Socket02_Client.Properties.Resources.resources
+E:\demo\gitee\cshap_base\14-Socket02-Client\obj\Debug\14-Socket02-Client.csproj.GenerateResource.cache
+E:\demo\gitee\cshap_base\14-Socket02-Client\obj\Debug\14-Socket02-Client.csproj.CoreCompileInputs.cache
+E:\demo\gitee\cshap_base\14-Socket02-Client\obj\Debug\14-Socket02-Client.exe
+E:\demo\gitee\cshap_base\14-Socket02-Client\obj\Debug\14-Socket02-Client.pdb

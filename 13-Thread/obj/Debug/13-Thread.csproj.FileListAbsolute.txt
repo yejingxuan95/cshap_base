@@ -8,3 +8,14 @@ D:\work\workspace\vs\c_code\01-basics-grammar\13-Thread\obj\Debug\13-Thread.cspr
 D:\work\workspace\vs\c_code\01-basics-grammar\13-Thread\obj\Debug\13-Thread.csproj.CoreCompileInputs.cache
 D:\work\workspace\vs\c_code\01-basics-grammar\13-Thread\obj\Debug\13-Thread.exe
 D:\work\workspace\vs\c_code\01-basics-grammar\13-Thread\obj\Debug\13-Thread.pdb
+E:\demo\gitee\cshap_base\13-Thread\bin\Debug\13-Thread.exe.config
+E:\demo\gitee\cshap_base\13-Thread\bin\Debug\13-Thread.exe
+E:\demo\gitee\cshap_base\13-Thread\bin\Debug\13-Thread.pdb
+E:\demo\gitee\cshap_base\13-Thread\obj\Debug\13-Thread.csproj.AssemblyReference.cache
+E:\demo\gitee\cshap_base\13-Thread\obj\Debug\13-Thread.csproj.SuggestedBindingRedirects.cache
+E:\demo\gitee\cshap_base\13-Thread\obj\Debug\_13_Thread.Form1.resources
+E:\demo\gitee\cshap_base\13-Thread\obj\Debug\_13_Thread.Properties.Resources.resources
+E:\demo\gitee\cshap_base\13-Thread\obj\Debug\13-Thread.csproj.GenerateResource.cache
+E:\demo\gitee\cshap_base\13-Thread\obj\Debug\13-Thread.csproj.CoreCompileInputs.cache
+E:\demo\gitee\cshap_base\13-Thread\obj\Debug\13-Thread.exe
+E:\demo\gitee\cshap_base\13-Thread\obj\Debug\13-Thread.pdb

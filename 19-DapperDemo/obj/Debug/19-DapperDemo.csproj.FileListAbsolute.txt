@@ -11,3 +11,17 @@ D:\work\workspace\vs\c_code\01-basics-grammar\19-DapperDemo\obj\Debug\19-DapperD
 D:\work\workspace\vs\c_code\01-basics-grammar\19-DapperDemo\obj\Debug\19-DapperDemo.csproj.CopyComplete
 D:\work\workspace\vs\c_code\01-basics-grammar\19-DapperDemo\obj\Debug\19-DapperDemo.exe
 D:\work\workspace\vs\c_code\01-basics-grammar\19-DapperDemo\obj\Debug\19-DapperDemo.pdb
+E:\demo\gitee\cshap_base\19-DapperDemo\bin\Debug\19-DapperDemo.exe.config
+E:\demo\gitee\cshap_base\19-DapperDemo\bin\Debug\19-DapperDemo.exe
+E:\demo\gitee\cshap_base\19-DapperDemo\bin\Debug\19-DapperDemo.pdb
+E:\demo\gitee\cshap_base\19-DapperDemo\bin\Debug\Dapper.dll
+E:\demo\gitee\cshap_base\19-DapperDemo\bin\Debug\Dapper.SimpleCRUD.dll
+E:\demo\gitee\cshap_base\19-DapperDemo\bin\Debug\Dapper.xml
+E:\demo\gitee\cshap_base\19-DapperDemo\bin\Debug\Dapper.SimpleCRUD.pdb
+E:\demo\gitee\cshap_base\19-DapperDemo\bin\Debug\Dapper.SimpleCRUD.xml
+E:\demo\gitee\cshap_base\19-DapperDemo\obj\Debug\19-DapperDemo.csproj.AssemblyReference.cache
+E:\demo\gitee\cshap_base\19-DapperDemo\obj\Debug\19-DapperDemo.csproj.SuggestedBindingRedirects.cache
+E:\demo\gitee\cshap_base\19-DapperDemo\obj\Debug\19-DapperDemo.csproj.CoreCompileInputs.cache
+E:\demo\gitee\cshap_base\19-DapperDemo\obj\Debug\19-DapperDemo.csproj.CopyComplete
+E:\demo\gitee\cshap_base\19-DapperDemo\obj\Debug\19-DapperDemo.exe
+E:\demo\gitee\cshap_base\19-DapperDemo\obj\Debug\19-DapperDemo.pdb

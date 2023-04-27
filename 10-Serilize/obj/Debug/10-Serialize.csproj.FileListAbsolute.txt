@@ -5,3 +5,11 @@ D:\work\workspace\vs\c_code\01-basics-grammar\10-Serilize\obj\Debug\10-Serialize
 D:\work\workspace\vs\c_code\01-basics-grammar\10-Serilize\obj\Debug\10-Serialize.csproj.CoreCompileInputs.cache
 D:\work\workspace\vs\c_code\01-basics-grammar\10-Serilize\obj\Debug\10-Serilize.exe
 D:\work\workspace\vs\c_code\01-basics-grammar\10-Serilize\obj\Debug\10-Serilize.pdb
+E:\demo\gitee\cshap_base\10-Serilize\bin\Debug\10-Serilize.exe.config
+E:\demo\gitee\cshap_base\10-Serilize\bin\Debug\10-Serilize.exe
+E:\demo\gitee\cshap_base\10-Serilize\bin\Debug\10-Serilize.pdb
+E:\demo\gitee\cshap_base\10-Serilize\obj\Debug\10-Serialize.csproj.AssemblyReference.cache
+E:\demo\gitee\cshap_base\10-Serilize\obj\Debug\10-Serialize.csproj.SuggestedBindingRedirects.cache
+E:\demo\gitee\cshap_base\10-Serilize\obj\Debug\10-Serialize.csproj.CoreCompileInputs.cache
+E:\demo\gitee\cshap_base\10-Serilize\obj\Debug\10-Serilize.exe
+E:\demo\gitee\cshap_base\10-Serilize\obj\Debug\10-Serilize.pdb
